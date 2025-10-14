@@ -1,0 +1,55 @@
+body{
+    background-color: #FFFDF6;
+}
+
+h4{
+    font-size: 32pt;
+    font-weight: normal;
+    color: #6A2711;
+    margin: 0;
+}
+
+h1{
+    font-size: 144pt;
+    text-align: right;
+    font-weight: 900;
+    line-height: 156pt;
+}
+
+h2{
+    font-size: 96pt;
+    font-weight: bold;
+    color: #6A2711;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+h3{
+    font-size: 40pt;
+    font-weight: normal;
+    color: #6A2711;
+    margin-top: 0;
+    margin-bottom: 25px;
+}
+
+p{
+    font-size: 32pt;
+    color: #6A2711;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.title{
+    margin-left: 88px;
+
+}
+
+.flower_language{
+    margin-right: 168px;
+}
+
+.images{
+    float: right;
+    margin-top: -1100px;
+
+}
