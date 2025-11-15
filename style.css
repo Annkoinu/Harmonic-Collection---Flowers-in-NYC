@@ -12,7 +12,7 @@ h4{
 h1{
     font-family: "Moul", "Regular";
     font-size: 144px;
-    text-align: right;
+    text-align: left;
     line-height: 156px;
     margin: 0;
 }
@@ -49,7 +49,7 @@ p{
 .flower_language{
     position: relative;
     margin-top: 275px;
-    margin-right: 168px;
+    margin-left: 75px;
     
 }
 
